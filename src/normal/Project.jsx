@@ -6,7 +6,7 @@ function Project() {
       <h3 className="text-text-faint">PROJECTS</h3>
       <div className="flex flex-col gap-10 mt-4">
         <a
-          href="https://fummsa-payment-system-n7f6-qhiwf02xr-oluwasikuolas-projects.vercel.app"
+          href="https://fummsa-payment-system-n7f6-git-main-oluwasikuolas-projects.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-col gap-2 rounded-md border border-border py-4 px-3"
