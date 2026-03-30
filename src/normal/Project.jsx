@@ -12,7 +12,7 @@ function Project() {
           className="flex flex-col gap-2 rounded-md border border-border py-4 px-3"
         >
           <span className="flex items-center justify-between">
-            <h2 className="text-text-faint ">Payment Approval Workflow</h2>
+            <h2 className="text-text-faint">Payment Approval Workflow</h2>
             <small className="py-1 px-2 outline-0 rounded-full">
               completed
             </small>

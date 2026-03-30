@@ -12,7 +12,7 @@ function PageNormal() {
   return (
     <div className="flex flex-col h-screen">
       <Header />
-      <main className="max-w-[80%] mx-auto  mt-1 md:mt-7 md:flex md:gap-4">
+      <main className="max-w-[80%] mx-auto md:mt-7 md:flex md:gap-4">
         <div className="md:sticky md:top-10 md:self-start md:w-1/2">
           <Whoami />
         </div>

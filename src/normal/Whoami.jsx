@@ -4,11 +4,13 @@ import AnimatedText from "./AnimatedText";
 
 function Whoami() {
   return (
-    <section className="md:fixed top-12 left-[10%] md:w-[calc(38%-2rem)] page-transition">
+    <section className="md:fixed left-[10%] md:w-[calc(38%-2rem)] page-transition">
       <div className="flex flex-col gap-1">
-        <h1 className="text-text-faint lg:text-[3rem]">{data.name}</h1>
+        <h1 className="text-text-faint text-[3rem] tracking-wider lg:text-[3rem]">
+          {data.name}
+        </h1>
 
-        <h3 className="animate-pulse">
+        <h3>
           <AnimatedText />
         </h3>
 

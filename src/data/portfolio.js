@@ -1,5 +1,5 @@
 export const data = {
-  name: "Sikuola Olayiwola",
+  name: "Sikuola",
   role: "Software Engineer",
   location: "Abeokuta, Ogun State",
   bio: "Building real solutions for real problems using  JavaScript, React, Next.js, Supabase, Node.js and Express.js.",
